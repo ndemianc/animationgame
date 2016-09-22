@@ -1,1 +1,2 @@
-<div id='stage' can-autorender></div>
+<div id="stage" can-autorender></div>
+<input type="button" ($click)="startGame()">

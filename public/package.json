@@ -8,6 +8,7 @@
     "express": "^4.14.0",
     "gsap": "^1.19.0",
     "jquery": "^2.2.4",
+    "jquery-nearest": "^1.4.0",
     "lodash": "^4.13.1",
     "steal": "^0.16.23",
     "steal-coffee": "^0.2.2",

@@ -4,16 +4,10 @@ import ViewModel from './animation.viewmodel';
 import template from './animation.stache!';
 import './animation.less!';
 import 'gsap';
-import Animation from './animation.coffee!';
-
+import 'jquery-nearest';
 
 export default Component.extend({
   tag: 'sd-animation',
   viewModel: ViewModel,
-  template
-});
-
-can.autorender(function() {
-  let animation = new Animation('#stage');
-  animation.start();
+  template: template
 });
