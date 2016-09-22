@@ -1,0 +1,13 @@
+{
+  "name": "Canstart",
+  "version": "1.0.0",
+  "description": "A start box",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "author": "Sergii Demianchuk",
+  "license": "MIT"
+}

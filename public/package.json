@@ -1,0 +1,17 @@
+{
+  "name": "Canstart",
+  "version": "1.0.0",
+  "description": "A start box",
+  "main": "main.js",
+  "dependencies": {
+    "can": "^2.3.24",
+    "express": "^4.14.0",
+    "jquery": "^2.2.4",
+    "lodash": "^4.13.1",
+    "steal": "^0.16.23",
+    "steal-sass": "^1.0.3"
+  },
+  "devDependencies": {},
+  "author": "Sergii Demianchuk",
+  "license": "MIT"
+}
